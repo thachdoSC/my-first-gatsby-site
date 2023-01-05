@@ -18,3 +18,8 @@
 .nav-link-text {
   color: black;
 }
+.img {
+  height: 500px;
+  object-fit: none;
+  object-position: 0% 400%;
+}
